@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PengelolaAmbulance</string>
+
+    <string name="btn_start">Get Started</string>
+    <string name="txt_login">Please enter details below to continue</string>
+    <string name="login">Login</string>
+    <string name="regist">Don\'t have an account? Sign Up</string>
+</resources>
