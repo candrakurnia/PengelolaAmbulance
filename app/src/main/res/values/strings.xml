@@ -5,4 +5,6 @@
     <string name="txt_login">Please enter details below to continue</string>
     <string name="login">Login</string>
     <string name="regist">Don\'t have an account? Sign Up</string>
+    <string name="text_onBoarding">Aplikasi yang dibuat untuk memudahkan masyarakat dalam memesan ambulance gratis yang disediakan oleh pemerintah kota Bandar Lampung.</string>
+
 </resources>
